@@ -1,0 +1,13 @@
+{
+  "title": "example layout",
+  "windows": [{
+    "title": "example window",
+    "layout": {
+      "left": {
+        "top": "echo 'top left",
+        "bottom": "echo 'bottom left"
+      },
+      "right": "ls -la"
+    }
+  }]
+}
